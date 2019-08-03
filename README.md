@@ -2,9 +2,7 @@
 
 A simple radial progress bar for react-native implemented with SVG
 
-<p align="center">
-  <img src="https://github.com/zapalote/react-native-radial-progress-bar/tree/master/assets/screenshot.png" width="800" />
-</p>
+![](./assets/screenshot.png)
 
 ## Prerequisites
 
