@@ -46,7 +46,7 @@ react-native run-ios or react-native run-android.
 
 | prop  | Description |
 | ------------- | ------------- |
-| size  | diameter of the outer circle  |
+| size  | outer diameter of the circle  |
 | width  | width of the stroke  |
 | fill  | percentage of the circle to be displayed in "tintColor" (see below)  |
 | tintColor  | color of the active circle  |
