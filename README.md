@@ -60,4 +60,4 @@ The circles are drawn on a transparent surface.
 
 ## Acknowledgments
 
-* Thanks to [Greg Douglas](https://codepen.io/xgad/) who gave inspiration and shared his css/SVG implementation.
+* Thanks to [Greg Douglas](https://codepen.io/xgad/) who gave inspiration and shared his [css/SVG](https://codepen.io/xgad/post/svg-radial-progress-meters) implementation.
