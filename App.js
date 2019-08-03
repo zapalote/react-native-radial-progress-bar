@@ -9,13 +9,13 @@ const diameter = Canvas * 0.5;
 
 const App = () => {
 
-  const stroke = 5;
-  const percentage = 80;
+  const stroke = 10;
+  const percentage = 28;
 
   return (
     <View style={styles.container}>
       <RadialProgressBar size={diameter} width={stroke} fill={percentage}
-        tintColor={'darkturquoise'} backgroundColor={'#eee'}>
+        tintColor={'indigo'} backgroundColor={'#eee'}>
         {
           (percent) => (
             <View style={styles.circleStyle}>
