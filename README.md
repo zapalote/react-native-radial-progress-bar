@@ -2,7 +2,7 @@
 
 A simple radial progress bar for react-native implemented with SVG
 
-›![](./assets/screenshot.png)
+![](./assets/screenshot.png)
 
 ## Prerequisites
 
