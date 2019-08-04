@@ -1,6 +1,6 @@
 # react-native-radial-progress-bar
 
-A simple radial progress bar for react-native implemented with SVG
+A simple, fully configurable radial progress bar for react-native implemented with SVG
 
 ![](./assets/screenshot.png)
 
